@@ -1,0 +1,17 @@
+{
+  "name": "OC设定集",
+  "short_name": "OC设定集",
+  "description": "本地 OC 设定数据库：角色、组织、情节时间线、关系网络、世界线与图库",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F2EC",
+  "theme_color": "#F5F2EC",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
